@@ -1,0 +1,12 @@
+
+        ---
+        layout: post
+        title: "036"
+        date: 2013-07-08
+        categories: Blog
+        ---
+        <div class="blog-content">
+				<div class="paragraph" style="text-align:justify;">I went and got an Ouya. I meant for it to be a replacement for our current media streaming device, a wdtv. I was going to do a writeup on how that went and what I thought of the system. <br><br>It turns out that our TV is really dumb. It&rsquo;s one of those old &ldquo;HD ready jobbers&rdquo;. It can display a 720p signal pretty well and, aside from some minor overscan issues, does a respectable job with all the current game consoles. It doesn&rsquo;t have any hdmi ports, but it does have a DVI port and I have an adapter. All good. Nope.<br><br>It will not play nice with the Ouya. The Ouya doesn&rsquo;t output analog audio at all. Not even through a headphone jack. My fault really, I&rsquo;m usually very good at sniffing out these weird hardware incompatibilities. I was blinded by the cheap price and potential for fiddling. <br><span style=""></span><br>So, to make up for this shortcoming, I purchased an hdmi to component converter. It works fantastically with every device I connect it too, except the Ouya.<br><br>I feel like this is the point where most folks would pack it in and figure this junk just can&rsquo;t work together, because either it is broken, or the people who made said junk, are bad, vindictive, people.<br><br>I have an uncommon tolerance to hardware jank. I will mess with something to get it running properly, or at least acceptably, far longer than I really should. Sometimes this pays off, sometimes it doesn&rsquo;t.<br><br>At this point I have a small grey box that will send out picture or sound, but never both together. I have come up with a plan that involves an hdmi splitter and some RCA Y adapters. <br><br>wish me luck. <br></div>
+
+		</div>
+        
