@@ -51,6 +51,6 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-header_pages:
-  - rumerica/index.md
-  - about.md
+#header_pages:
+#  - rumerica/index.md
+#  - about.md
