@@ -1,7 +1,8 @@
 ---
 layout: default
-title: NorthStack Example Blog
+title: Blog Layout
 ---
+
 <div class="posts">
     {% for post in site.posts limit:4 %}
         <article>
@@ -12,6 +13,16 @@ title: NorthStack Example Blog
     {% endfor %}
 </div>
 <div>
+{% include accordion.html %}
+
+---
+accordion: 
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+---
+
     <ul>
         {% for post in site.posts %}
           <li>
