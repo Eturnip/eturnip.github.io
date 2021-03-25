@@ -333,7 +333,6 @@ DEPENDENCIES
   jekyll-feed (~> 0.12)
   jekyll-menus
   jekyll-paginate (~> 1.1)
-  minima (~> 2.5)
   sassc-rails (>= 2.1.0)
   tzinfo (~> 1.2)
   tzinfo-data
