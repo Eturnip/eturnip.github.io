@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+hero_height: is-small
 ---
 
 

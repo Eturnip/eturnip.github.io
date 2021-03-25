@@ -1,0 +1,39 @@
+{% include accordion.html %}
+
+---
+accordion: 
+  - title: this is item 1
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+  - title: this is item 2
+    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+---
+
+    <ul>
+        {% for post in site.posts %}
+          <li>
+            <a href="{{ post.url }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+</div>
+
+
+
+
+{% include navigation.html %}
+
+
+- title: Blog
+  url: /blog/
+- title: Stories
+  url: /Stories/
+  sublinks:
+    - title: Story 000
+      url: /Stories/Story_000/
+    - title: separator
+- title: About
+  url: /about/
+- title: Test
+  url: /test/
+- title: Contact
+  url: /contact/
