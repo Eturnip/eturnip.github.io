@@ -4,29 +4,29 @@
   link: 
   dropdown:
     - name: Story 000 
-      link: /stories/story_000
+      link: /Stories/Story_000
     - name: Story 001
-      link: /stories/story_001
+      link: /Stories/Story_001
     - name: Story 002
-      link: /stories/story_002/
+      link: /Stories/Story_002/
     - name: Story 003
-      link: /stories/story_003/
+      link: /Stories/Story_003/
     - name: Story 004
-      link: /stories/story_004/
+      link: /Stories/Story_004/
     - name: Story 005
-      link: /stories/story_005/
+      link: /Stories/Story_005/
     - name: Story 006 All the World Sings With You
-      link: /stories/story_006/
+      link: /Stories/Story_006/
     - name: Story 008
-      link: /stories/story_008/
+      link: /Stories/Story_008/
     - name: Story 009
-      link: /stories/story_009/
+      link: /Stories/Story_009/
     - name: Story 010 BattleWagon
-      link: /stories/story_010/
+      link: /Stories/Story_010/
     - name: Story 011
-      link: /stories/story_011/
+      link: /Stories/Story_011/
     - name: Story 012
-      link: /stories/story_012/
+      link: /Stories/Story_012/
 - name: About
   link: /about/
 - name: Test
